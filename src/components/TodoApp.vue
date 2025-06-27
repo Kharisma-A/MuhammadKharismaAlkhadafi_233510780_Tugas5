@@ -5,7 +5,6 @@ import TodoList from './TodoList.vue'
 import TodoStats from './TodoStats.vue'
 import TodoFilters from './TodoFilters.vue'
 
-const todoStore = useTodoStore()
 </script>
 
 <template>

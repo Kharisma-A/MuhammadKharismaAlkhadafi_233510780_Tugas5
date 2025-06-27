@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import { useTodoStore } from '../stores/todo'
 import TodoInput from './TodoInput.vue'
 import TodoList from './TodoList.vue'
 import TodoStats from './TodoStats.vue'
